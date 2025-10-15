@@ -189,7 +189,7 @@
       </div>
       <div style="width: 100px;"></div>
       <div class="photo-block">
-        <div class="photo-placeholder">(INI FOTO!)</div>
+        <div class="photo-placeholder"><img src="https://raw.githubusercontent.com/elizabethzefanyatikb/PHB-2025/refs/heads/main/logo%20smaksta.html"></div>
         <div class="photo-caption">SMAKSTA</div>
       </div>
     </div>
